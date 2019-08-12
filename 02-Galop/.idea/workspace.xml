@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="859fddab-99cd-4fb7-8689-3089fee6465b" name="Default Changelist" comment="" />
+    <list default="true" id="859fddab-99cd-4fb7-8689-3089fee6465b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Galop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Galop.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Galop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="-279">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -46,22 +48,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
-    <option name="y" value="30" />
-    <option name="width" value="1260" />
-    <option name="height" value="650" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="829" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -105,8 +102,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="829" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -118,7 +114,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5015625" side_tool="true" weight="0.3291536" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.3291536" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32882884" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
@@ -133,7 +129,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" sideWeight="0.4984375" weight="0.32890624" />
+      <window_info anchor="right" id="Run" order="8" sideWeight="0.4984375" weight="0.5851756" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -167,8 +163,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Galop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="-279">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>

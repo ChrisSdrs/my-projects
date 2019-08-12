@@ -73,5 +73,4 @@ public class Galop {
         String formatteddd = dd.format(posdgda);
         System.out.println("Pososto Den Gnwrizw/Den Apantw: " + formatteddd + "%");
     }
-
 }
