@@ -1,0 +1,117 @@
+<h1 id="title">VisitAthens Survey</h1>
+<form id="survey-form">
+  <p id="description">Let us know how we can improve our city</p>
+  <div class="row-tab">
+    <div class="name-label">
+      <label for="name" id="name-label">Full Name:</label>
+    </div>
+    <div class="input-name">
+      <input  id="name" type="text" required placeholder="Full name" name="Full name">
+    </div>
+  </div>
+  <div class="row-tab">
+    <div class="email-label">
+      <label for="email" id="email-label">Email:</label>
+    </div>
+    <div class="input-email">
+      <input id="email" type="email" required placeholder="Email" email="Email">
+    </div>
+  </div>
+  <div class="row-tab">
+    <div class="number-label">
+<label for="age" id="number-label">Age:</label>  
+    </div>
+    <div class="input-number">
+      <input id="number" type="number" min="16" max="100" required placeholder="Age" number="Age">
+    </div>
+  </div>
+  <div class="row-tab">
+    <div class="label-select">
+      <label>Select your favourite sight: </label>
+    </div>
+    <div id="dropdown" class="select-input">
+      <select>
+        <option value="acropolis">Acropolis</option>
+        <option value="acropolis-museum">Acropolis Museum</option>
+        <option value="parthenon">Parthenon</option>
+        <option value="kerameikos">Kerameikos</option>
+        <option value="ancient-agora">Ancient Agora</option>
+        <option value="temple-of-olympian-zeus">Temple of Olympian Zeus</option>
+        <option value="odeon-of-herodes-atticus">Odeon of Herodes Atticus</option>
+        <option value="roman-agora">Roman Agora</option>
+      </select>
+    </div>
+  </div>
+  <div class="row-tab">
+    <div class="labels-radio">
+     How likely is that you would recommend visiting Athens to a friend?
+    </div>
+    <div class="input-radio">
+      <div>
+      <label>
+      <input type="radio" name="answer" value="1">
+        Definitely
+      </label>
+      </div>
+      <div>
+      <label>
+      <input type="radio" name="answer" value="2">
+        Maybe
+      </label>
+      </div>
+      <div>
+      <label>
+      <input type="radio" name="answer" value="3">
+        Not sure
+      </label>
+      </div>
+      </div>
+  </div>
+  <div class="checkbox-labels">
+    Things that should be improved in the future:
+  </div>
+  <div class="input-checkbox">
+  <div>
+      <label>
+      <input type="checkbox" name="opinion" value="1">
+        Add greens, clean blues, and better hues
+      </label>
+      </div>
+  <div>
+      <label>
+      <input type="checkbox" name="opinion" value="2">
+        Wireless Sensor Networks
+      </label>
+ </div>
+    <div>
+      <label>
+      <input type="checkbox" name="opinion" value="3">
+        Mass transit
+      </label>
+      </div>
+    <div>
+<label>
+      <input type="checkbox" name="opinion" value="4">
+        Create new parking lots
+      </label>
+      </div>
+    <div>
+<label>
+      <input type="checkbox" name="opinion" value="5">
+        Bicycle lanes
+      </label>
+      </div>
+    <div>
+<label>
+      <input type="checkbox" name="opinion" value="6">
+        Lighting
+      </label>
+      </div>
+</div>
+  <div class="row-tab">
+    <textarea>Enter your comments here</textarea>
+  </div>
+  <div class="row-tab">
+    <button id="submit" class="submit-button">Submit</button>
+  </div>
+</form>

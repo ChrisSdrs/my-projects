@@ -1,0 +1,99 @@
+body{
+  text-align: center;
+  background: url(http://www.conceptours.gr//common/images/places-slider/places-slider-1-large.jpg); 
+  font-size:20px;
+}
+h1{
+  font-family: Comic Sans MS;
+  font-size: 40px;
+  color:#938204;
+}
+p{
+  font-size:30px;
+}
+#survey-form{
+  background-color: #820000;
+  opacity:0.82;
+  color: #DFC50E;
+  width: 700px;
+  height:700px;
+  margin: 0 auto;
+  border-radius:5px;
+}
+.row-tab{
+  display:block;
+  padding-top:20px;
+}
+.name-label{
+  display:inline-block;
+  width:40%;
+  text-align: right;
+}
+.input-name{
+  display:inline-block;
+  text-align: left;
+  width:48%;
+}
+.email-label{
+  display:inline-block;
+  width:40%;
+  text-align: right;
+}
+.input-email{
+  display:inline-block;
+  text-align: left;
+  width:48%;
+ 
+}
+.number-label{
+  display:inline-block;
+  width:40%;
+  text-align: right;
+}
+.input-number{
+  display:inline-block;
+  text-align: left;
+  width:48%;
+}
+.select-input{
+  display:inline-block;
+  text-align: left;
+  width:48%;
+}
+.label-select{
+  display:inline-block;
+  width:40%;
+  text-align: right;
+}
+.labels-radio{
+  display:inline-block;
+  width:49%;
+  text-align: right;
+  vertical-align: top;
+  padding-top:20px;
+}
+.input-radio{
+  display:inline-block;
+  text-align: left;
+  font-size:16px;
+  width:48%;
+  padding-top:20px;
+}
+.checkbox-labels{
+  display:inline-block;
+  width:40%;
+  text-align: right;
+  vertical-align: top;
+  padding-top:20px;
+}
+.input-checkbox{
+  display:inline-block;
+  text-align: left;
+  font-size:16px;
+  width:48%;
+  padding-top:20px;
+}
+.submit-button{
+  padding:10px;
+  border-radius:10px;
+}
