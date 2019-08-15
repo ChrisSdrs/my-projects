@@ -1,0 +1,57 @@
+body{
+  background: url(https://freefrontend.com/assets/img/css-background-patterns/css-lattice-pattern.png);
+  text-align: center;
+}
+#Mitch-link{
+  color: #C91515;
+}
+#tribute-link{
+  color:red;
+  font-family:Helvetica;
+}
+#image {
+  width: 450px;
+  
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  max-width: 100%;
+  display: block;
+  height:auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#img-caption{
+text-align: center;
+  color: #C21D45;
+  background-color:#02195C;
+  font-family: Sans-serif;
+  display: block;
+  margin-left: 450px;
+  margin-right: 450px;
+  border-radius: 50px;
+  
+}
+#title{
+  font-family: Sans-serif;
+  font-size: 40px;
+  text-align: center;
+  background-color: #AF7010;
+  color: #0427B9;
+  border-radius: 10px;
+}
+h4{
+  font-family: Times New Roman;
+  text-align: center;
+  color: orange;
+  font-size:23px;
+}
+#tribute-info{
+  font-family: Helvetica;
+  color: white;
+  background-color: #02195C;
+}
