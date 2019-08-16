@@ -1,0 +1,52 @@
+body{
+  background-color:black;
+  }
+main-doc{
+  height:100%;
+  width:100%;
+}
+#navbar{
+  position:fixed;
+  width:300px;
+  height:100%;
+  background-color:#989897;
+  text-align:center;
+}
+.nav-link{
+  margin-top:10px;
+  margin-bottom:10px;
+  font-size:25px;
+}
+a{
+ text-decoration:none;
+  color:white;
+}
+#tech-doc{
+  background-color:#FFCF61;
+  height:100%;
+  margin-left:303px;
+}
+#wdheader{
+ font-size:50px; 
+  color:#000E75;
+}
+header{
+  font-size:34px;
+}
+h3{
+  font-size:25px;
+}
+h4{
+  font-size:22px;
+}
+p{
+  font-size:18px;
+}
+li{
+  font-size:18px;
+}
+@media only screen and (max-width:600px){
+  #Introduction{
+    display:none;
+  }
+}
